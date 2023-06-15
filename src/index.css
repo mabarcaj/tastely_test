@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Delius+Swash+Caps&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  html {
+    background: #EAD2AC;
+    color: #674172;
+    font-family: 'Dekko';
+  }
+}
