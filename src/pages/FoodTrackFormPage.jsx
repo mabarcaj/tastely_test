@@ -45,7 +45,7 @@ export function FoodTrackFormPage() {
                 },
             });
         }
-        navigate("/");
+        navigate("/tastely_test");
     });
 
     useEffect(() => {
@@ -148,7 +148,7 @@ export function FoodTrackFormPage() {
                                         color: "#fff",
                                     },
                                 });
-                                navigate("/");
+                                navigate("/tastely_test");
                             }
                         }}
                         className="bg-[#C05746] p-3 rounded-lg w-48 mt-3 text-white"
